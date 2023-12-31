@@ -1,3 +1,3 @@
 # E-commerce
-This is my first repository. 
+E-commerce website. 
 Owner: Dheeraj Yadav
